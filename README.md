@@ -22,7 +22,7 @@
 
 
 ## 4. Complete Generative AI Tutorials With End To End Projects
-<img src="https://github.com/krishnaik06/Roadmap-To-Learn-Generative-AI-In-2024/assets/20041231/ebaa03ec-4370-4ea0-989d-5314370cd2da" alt="Alt Text" width="300" height="200">
+
 <img src="https://github.com/user-attachments/assets/e3070185-ffd2-49f4-a159-825c7c2bda02" alt="Alt Text" width="300" height="200">
 <img src="https://github.com/user-attachments/assets/dbbba97d-c4f2-4ffe-8b8d-4b992005f3fc" alt="Alt Text" width="300" height="200">
 <img src="https://github.com/user-attachments/assets/9e721c21-bba1-4840-9d9c-4992ba7e376f" alt="Alt Text" width="300" height="200">
@@ -81,12 +81,6 @@
 ![image](https://github.com/user-attachments/assets/6e87cbb7-5ba6-4c11-a30f-c6c3e4ee3c50)
 
 
-1. **Admission Link: https://learn.krishnaikacademy.com/l/4a4d821d78**
-2. **Start Date May 10th, 2025**
-3. **Timing:8 AM to 11 AM IST (Saturday and Sunday)**
-4. **Duration: 4-5 months**
-5. **Mentors: Sourangshu Paul, Mayank Aggarwal, Krish Naik, and Sunny Savitha**
-6. **Reach out to Krish Naik's counselling team on 📞 +91-9111533440 in case of any queries we are there to help you out.**
 
 
 
